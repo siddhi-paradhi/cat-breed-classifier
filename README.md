@@ -15,7 +15,7 @@ The Cat Breed Classifier is designed to predict the breed of a cat given an imag
 
 - Python 
 - TensorFlow & Keras
-- Google Colab ☁
+- Google Colab 
 - NumPy, Matplotlib, OpenCV
 
 ## Features
